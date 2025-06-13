@@ -144,6 +144,8 @@
 
 
 <p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
+<p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?quote=Many%20years%20later%2C%20as%20he%20faced%20the%20firing%20squad%2C%20Colonel%20Aureliano%20Buend%C3%ADa%20was%20to%20remember%20that%20distant%20afternoon%20when%20his%20father%20took%20him%20to%20discover%20ice.&author=Gabriel%20Garc%C3%ADa%20M%C3%A1rquez&theme=algolia&type=horizontal" alt="Gabriel García Márquez Quote" />
   </a>
