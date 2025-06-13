@@ -96,10 +96,14 @@
   <br>
 </details>
 
-<img align="left" src="https://cdn.dribbble.com/userupload/24029823/file/original-6f87ac44c2560e46fc5267cacbd80e0f.gif" width="200">
-<br>
-
+<p align="center">
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+ <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<img src=".\github-user-contribution.svg" width="100%">
+<br><br>
+  <img align="left" src="https://cdn.dribbble.com/userupload/24029823/file/original-6f87ac44c2560e46fc5267cacbd80e0f.gif" width="200">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+<br>
 <details open align="center">
   <summary><h3>🎧 Spotify Playing Now</h3></summary>
 <p align="center">
