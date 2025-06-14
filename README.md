@@ -71,13 +71,17 @@
 [![Shoaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Optimized-Brain&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/ChangeofPace?theme=nord&font=Kadwa&ext=contest" alt="LeetCode Stats" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://leetcard.jacoblin.cool/ChangeofPace?theme=nord&font=Kadwa&ext=contest" alt="LeetCode Stats" />
+    </td>
+    <td align="right">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/OptimizedBrain.png" alt="TryHackMe Badge" />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Optimized-Brain/Optimized-Brain/master/assets/thm_propic.png" alt="THM Stats" />
-</p>
 
 <details open align="center">
   <summary>📁 More Repositories</summary>
@@ -160,6 +164,39 @@
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<details open align="center">
+  <summary>
+    <h3>
+      <img src="https://i.postimg.cc/1RCy7GMr/logo.png" width="26" style="vertical-align: middle; margin-right: 8px;" alt="Highlight Logo"/>
+      Guest Speaker Highlights
+    </h3>
+  </summary>
+  <br/>
+
+  <table>
+    <tr>
+      <td align="left" valign="top" width="55%">
+        <p>
+          🗣️ <strong>FOSS United Mumbai (2025)</strong><br/>
+          EDA automation, circuit scripting, FOSS toolchains<br/>
+          <a href="https://fossunited.org/c/mumbai/2025/cfp/e47f3cdkr0" target="_blank">📎 View</a>
+        </p>
+        <p>
+          🏫 <strong>SIGCE Workshop</strong><br/>
+          Guest lecture on open‑source EDA and academic collaboration<br/>
+          <a href="https://drive.google.com/file/d/1KmdUSGVcBDzxfx_DExY3RfljgB2Bw6Fc/view?usp=sharing" target="_blank">📄 View</a>
+        </p>
+      </td>
+      <td align="right" valign="middle" width="30%">
+        <img src="https://drive.google.com/uc?id=1Vb2PDqndnZTz__n0Ouh4fODAan2ssCZX" width="200" alt="FOSS United Banner"/>
+      </td>
+    </tr>
+  </table>
+</details>
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
