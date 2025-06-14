@@ -127,9 +127,14 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
+<details open>
+ <summary>
  <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+  
+ </summary>
+
 
 <!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
@@ -142,7 +147,7 @@
   <img src="https://i.postimg.cc/FRQ0qfgh/Whats-App-Image-2025-06-14-at-13-20-32-3955c0c8.jpg" width="320" alt="Meme 3" style="margin: 0 15px;" />
 </p>
 
-
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 <details open align="center">
