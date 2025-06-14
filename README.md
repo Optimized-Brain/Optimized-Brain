@@ -194,7 +194,7 @@
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<details open align="center">
+<details align="center">
   <summary>
     <h3>
       <img src="https://i.postimg.cc/1RCy7GMr/logo.png" width="26" style="vertical-align: middle; margin-right: 8px;" alt="Highlight Logo"/>
