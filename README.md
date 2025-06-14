@@ -78,7 +78,6 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/Optimized-Brain/Optimized-Brain/master/assets/thm_propic.png" alt="THM Stats" />
 </p>
-![tryhackme stats]()
 
 <details open align="center">
   <summary>📁 More Repositories</summary>
