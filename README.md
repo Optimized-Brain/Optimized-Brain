@@ -19,7 +19,7 @@
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 </details>
-<br><br><br>
+<br><br>
 
 
 <img align="center" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Hacker Terminal" width="1200"/>
