@@ -14,11 +14,9 @@
 * 📙 Check out my [**Resume**](https://drive.google.com/file/d/1LB9lTCJkE3rIgpX_3TRIu3My3zgmtutz/view?usp=sharing)
 * 🎉 **Fun Fact:** I ❤️ Biomedical Science & Finance, and **book reading** is my favorite hobby 📚
 
-<details>
- <summary>📚 Books i'm reading currently</summary>
+### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
-</details>
 <br><br>
 
 
