@@ -124,8 +124,27 @@
 <img src=".\github-user-contribution.svg" width="100%">
 <br><br>
   <img align="left" src="https://cdn.dribbble.com/userupload/24029823/file/original-6f87ac44c2560e46fc5267cacbd80e0f.gif" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
+
+ <!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+
+<!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<p align="center">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30">
+
+<!-- 🤣 Meme Gallery -->
+<p align="center">
+  <img src="https://i.postimg.cc/VsZcWXFQ/Whats-App-Image-2025-06-14-at-13-01-57-53a18bc6.jpg" width="320" alt="Meme 1" style="margin: 0 15px;" />
+  <img src="https://i.postimg.cc/Z52R71Fm/Whats-App-Image-2025-06-14-at-13-01-56-28f1fc07.jpg" width="320" alt="Meme 2" style="margin: 0 15px;" />
+  <img src="https://i.postimg.cc/FRQ0qfgh/Whats-App-Image-2025-06-14-at-13-20-32-3955c0c8.jpg" width="320" alt="Meme 3" style="margin: 0 15px;" />
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 <details open align="center">
   <summary><h3>🎧 Spotify Playing Now</h3></summary>
 <p align="center">
