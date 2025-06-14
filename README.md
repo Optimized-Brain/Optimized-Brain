@@ -187,8 +187,8 @@
           <a href="https://drive.google.com/file/d/1KmdUSGVcBDzxfx_DExY3RfljgB2Bw6Fc/view?usp=sharing" target="_blank">📄 View</a>
         </p>
       </td>
-      <td align="right" valign="middle" width="30%">
-        <img src="https://drive.google.com/uc?id=1Vb2PDqndnZTz__n0Ouh4fODAan2ssCZX" width="200" alt="FOSS United Banner"/>
+      <td align="right" valign="middle" width="25%">
+        <img src="https://drive.google.com/uc?id=1Vb2PDqndnZTz__n0Ouh4fODAan2ssCZX" width="100%" alt="FOSS United Banner"/>
       </td>
     </tr>
   </table>
