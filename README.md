@@ -61,6 +61,8 @@
   <img src="https://leetcard.jacoblin.cool/ChangeofPace?theme=nord&font=Kadwa&ext=contest" alt="LeetCode Stats" />
 </p>
 
+![tryhackme stats](https://raw.githubusercontent.com/OptimizedBrain/OptimizedBrain/master/assets/thm_propic.png)
+
 <details open align="center">
   <summary>📁 More Repositories</summary>
   <br>
