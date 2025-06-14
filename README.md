@@ -17,14 +17,14 @@
 
 <img align="center" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Hacker Terminal" width="1200"/>
 
+<details open align="center">
+  <summary><h3>📊 Recent GitHub Activity</h3></summary>
+  <br>
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/ProlacterGolacter/Movie-clix/pull/84) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
-2. 💪 Opened PR [#83](https://github.com/ProlacterGolacter/Movie-clix/pull/83) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
-3. 💪 Opened PR [#82](https://github.com/ProlacterGolacter/Movie-clix/pull/82) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
-4. 💪 Opened PR [#81](https://github.com/ProlacterGolacter/Movie-clix/pull/81) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
-5. 💪 Opened PR [#80](https://github.com/ProlacterGolacter/Movie-clix/pull/80) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
-<!--END_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
