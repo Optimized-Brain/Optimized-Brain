@@ -1,0 +1,67 @@
+name: 📚 Update StoryGraph Reading List
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # every day at 01:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-storygraph-books:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch current books from StoryGraph and update README
+        run: |
+          python3 <<EOF
+          import requests
+          from bs4 import BeautifulSoup
+
+          USERNAME = "optimized_brain"  # replace with your StoryGraph username
+          URL = f"https://app.thestorygraph.com/profile/{USERNAME}"
+
+          r = requests.get(URL)
+          soup = BeautifulSoup(r.content, "html.parser")
+          current_reads = soup.select(".book-title-author-container")
+
+          books = []
+          for item in current_reads[:5]:  # max 5 books
+              title_tag = item.select_one(".title")
+              author_tag = item.select_one(".author")
+
+              title = title_tag.text.strip() if title_tag else "Unknown"
+              author = author_tag.text.strip().replace("by ", "") if author_tag else "Unknown"
+
+              books.append(f"- *{title}* by {author}")
+
+          book_section = "\n".join(books)
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          start = "<!--START_SECTION:storygraph-->"
+          end = "<!--END_SECTION:storygraph-->"
+
+          updated = content.split(start)[0] + start + "\n" + book_section + "\n" + end + content.split(end)[1]
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am "📚 Update current reads from StoryGraph"
+          git push
