@@ -24,7 +24,7 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/ProlacterGolacter/Movie-clix/pull/84) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
+1. 🔒 Closed issue [#1](https://github.com/Optimized-Brain/Cinecanvas/issues/1) in [Optimized-Brain/Cinecanvas](https://github.com/Optimized-Brain/Cinecanvas)
 2. 💪 Opened PR [#83](https://github.com/ProlacterGolacter/Movie-clix/pull/83) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
 3. 💪 Opened PR [#82](https://github.com/ProlacterGolacter/Movie-clix/pull/82) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
 4. 💪 Opened PR [#81](https://github.com/ProlacterGolacter/Movie-clix/pull/81) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
