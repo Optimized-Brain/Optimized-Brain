@@ -84,41 +84,161 @@
   </tr>
 </table>
 
+## 📁 More Repositories {#more-repositories}
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        
+### 🤖 [MutAIon](https://github.com/Optimized-Brain/MutAIon)  
+[![MutAIon](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=MutAIon&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/MutAIon)  
+AI-driven mutation engine exploring artificial intelligence and optimization.  
 
-<details open align="center">
-  <summary>📁 More Repositories</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/Optimized-Brain/MutAIon">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=MutAIon&theme=tokyonight" alt="MutAIon" />
-    </a>
-    <a href="https://github.com/Optimized-Brain/Moniq-A-Personal-Financial-Manager-and-Expense-Tracker">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Moniq-A-Personal-Financial-Manager-and-Expense-Tracker&theme=tokyonight" alt="Moniq" />
-    </a>
-    <a href="https://github.com/Optimized-Brain/SecDroid">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=SecDroid&theme=tokyonight" alt="SecDroid" />
-    </a>
-    <a href="https://github.com/Optimized-Brain/Cinecanvas">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Cinecanvas&theme=tokyonight" alt="RNTuple-JSROOT" />
-    </a>
-    <a href="https://github.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support&theme=tokyonight" alt="Ising-Market-Sim" />
-    </a>
-    <a href="https://github.com/Optimized-Brain/Scientific-Calculator">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Scientific-Calculator&theme=tokyonight" alt="AirQuality-Camera" />
-    </a>
-     <a href="https://github.com/Optimized-Brain/Ising-Model-for-Market-Crash">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Ising-Model-for-Market-Crash&theme=tokyonight" alt="AirQuality-Camera" />
-    </a>
-     <a href="https://github.com/Optimized-Brain/Percolation-Theory">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Percolation-Theory&theme=tokyonight" alt="AirQuality-Camera" />
-    </a>
-     <a href="https://github.com/Optimized-Brain/Weather-Buddy">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Optimized-Brain&repo=Weather-Buddy&theme=tokyonight" alt="AirQuality-Camera" />
-    </a>
-  </p>
-  <br>
-</details>
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/MutAIon?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-serverless-00C7B7?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 💰 [Moniq - Personal Financial Manager](https://github.com/Optimized-Brain/Moniq-A-Personal-Financial-Manager-and-Expense-Tracker)  
+[![Moniq](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Moniq-A-Personal-Financial-Manager-and-Expense-Tracker&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Moniq-A-Personal-Financial-Manager-and-Expense-Tracker)  
+Smart expense tracker and financial planner with analytics.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Moniq-A-Personal-Financial-Manager-and-Expense-Tracker?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-serverless-7A5CFF?style=flat-square)
+![Gemini AI](https://img.shields.io/badge/Gemini-AI-4B5563?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔒 [SecDroid](https://github.com/Optimized-Brain/SecDroid)  
+[![SecDroid](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=SecDroid&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/SecDroid)  
+Android security tool for vulnerability detection and hardening.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/SecDroid?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Static Analysis](https://img.shields.io/badge/Static%20Analysis-APK%20Decompilation-FF7A59?style=flat-square)
+![jadx](https://img.shields.io/badge/jadx-decompiler-4A76A8?style=flat-square)
+![dex2jar](https://img.shields.io/badge/dex2jar-tools-0F172A?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🎥 [Cinecanvas](https://github.com/Optimized-Brain/Cinecanvas)  
+[![Cinecanvas](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Cinecanvas&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Cinecanvas)  
+Interactive platform for movies and media recommendations.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Cinecanvas?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-edge-FF6A00?style=flat-square)
+![TMDB API](https://img.shields.io/badge/TMDB-API-0F172A?style=flat-square)
+![VidSrc API](https://img.shields.io/badge/VidSrc-API-0F172A?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚜 [Autonomous Agricultural Bot](https://github.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support)  
+[![AgriBot](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support)  
+AI-powered farming bot with real-time IoT dashboard.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-microcontroller-2F8FDF?style=flat-square)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-maps-3CB371?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🧮 [Scientific Calculator](https://github.com/Optimized-Brain/Scientific-Calculator)  
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Scientific-Calculator&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Scientific-Calculator)  
+Advanced calculator app with extended scientific functions.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Scientific-Calculator?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-0F172A?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-plotting-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-symbolic-3E5F8A?style=flat-square&logo=sympy&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📉 [Ising Model for Market Crash](https://github.com/Optimized-Brain/Ising-Model-for-Market-Crash)  
+[![Ising](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Ising-Model-for-Market-Crash&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Ising-Model-for-Market-Crash)  
+Simulation of market crashes using statistical physics.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Ising-Model-for-Market-Crash?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-scripts-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🌊 [Percolation Theory](https://github.com/Optimized-Brain/Percolation-Theory)  
+[![Percolation](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Percolation-Theory&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Percolation-Theory)  
+Modeling connectivity and threshold behavior in networks.  
+
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Percolation-Theory?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Medium Article](https://img.shields.io/badge/Medium-article-12100E?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⛅ [Weather Buddy](https://github.com/Optimized-Brain/Weather-Buddy)  
+[![Weather Buddy](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Weather-Buddy&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Weather-Buddy)  
+Real-time weather forecasting and visualization app.  
+
+![Stars](https://img.shields.io/github/stars/Optimized-Brain/Weather-Buddy?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-2A7AE2?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-deploy-black?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+
+
 
 <p align="center">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
