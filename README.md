@@ -61,13 +61,21 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Hacker Terminal" width="1200"/>
     <br><br>
     
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Optimized-Brain&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+
+  <!-- Row 1 -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Optimized-Brain&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </p>
+
+  <!-- Row 2 -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </p>
+
+</div>
+
 
 
 [![Shoaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Optimized-Brain&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
