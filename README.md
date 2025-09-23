@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-## 📁 More Repositories {#more-repositories}
+## 📁 More Repositories
 <div align="center">
   <table>
     <tr>
