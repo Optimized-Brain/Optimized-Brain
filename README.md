@@ -66,12 +66,8 @@
 
   <!-- Row 1 -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Optimized-Brain&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </p>
-
-  <!-- Row 2 -->
-  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Optimized-Brain&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+   &nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </p>
 
