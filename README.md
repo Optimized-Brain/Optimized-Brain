@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CF7DE&width=435&lines=Hii%2C+I+am+Shoaib+Attar+from+India)](https://git.io/typing-svg)
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-### 🔭 I’m currently a **Drone Programming and Operations Intern** at <a href="https://www.pracverse.com" target="_blank">PracVerse <img src="assets/pracverse.jpeg" alt="PracVerse Logo" width="20" height="20"/></a>
+### 🔭 I’m currently a **Cloud Network Engineer** at *ICICI Lombard GIC Ltd.*
 
-* 🏫 I’m pursuing **B.Tech in Electronics and Telecommunication** at Dwarkadas J. Sanghvi College of Engineering
+* 🏫 I have done my **B.Tech in Electronics and Telecommunication** from Dwarkadas J. Sanghvi College of Engineering
 * 👩‍💻 **Interests & Projects**
 
   * Full‑Stack Development
