@@ -25,8 +25,8 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1196](https://github.com/dronekit/dronekit-python/issues/1196#issuecomment-3323622260) in [dronekit/dronekit-python](https://github.com/dronekit/dronekit-python)
-2. 🗣 Commented on [#1196](https://github.com/dronekit/dronekit-python/issues/1196#issuecomment-3321198603) in [dronekit/dronekit-python](https://github.com/dronekit/dronekit-python)
+1. 🎉 Merged PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+2. 💪 Opened PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
 3. 💪 Opened PR [#245](undefined) in [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
 4. 💪 Opened PR [#81](https://github.com/ProlacterGolacter/Movie-clix/pull/81) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
 5. 💪 Opened PR [#80](https://github.com/ProlacterGolacter/Movie-clix/pull/80) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
