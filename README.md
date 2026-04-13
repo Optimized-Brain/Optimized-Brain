@@ -25,11 +25,11 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
-2. 💪 Opened PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
-3. 💪 Opened PR [#245](undefined) in [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
-4. 💪 Opened PR [#81](https://github.com/ProlacterGolacter/Movie-clix/pull/81) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
-5. 💪 Opened PR [#80](https://github.com/ProlacterGolacter/Movie-clix/pull/80) in [ProlacterGolacter/Movie-clix](https://github.com/ProlacterGolacter/Movie-clix)
+1. 💪 Opened PR [#8](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/8) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+2. 💪 Opened PR [#7](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/7) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+3. 💪 Opened PR [#6](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/6) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+4. 🎉 Merged PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+5. 💪 Opened PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
   <!--END_SECTION:activity-->
 
 </details>
