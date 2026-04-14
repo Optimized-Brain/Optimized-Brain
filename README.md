@@ -66,16 +66,13 @@
 
   <!-- Row 1 -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Optimized-Brain&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
-   &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimized-Brain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+![Optimized-Brain's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Optimized-Brain&theme=radical&chart=bars)
   </p>
 
 </div>
 
 
-
-[![Shoaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Optimized-Brain&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <table>
