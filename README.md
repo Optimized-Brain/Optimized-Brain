@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CF7DE&width=435&lines=Hii%2C+I+am+Shoaib+Attar+from+India)](https://git.io/typing-svg)
+
 ## A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 ### 🔭 I’m currently a **Cloud Network Engineer** at *ICICI Lombard GIC Ltd.*
@@ -163,7 +163,7 @@ Interactive platform for movies and media recommendations.
 <td width="50%">
 
 ### 🚜 [Autonomous Agricultural Bot](https://github.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support)  
-[![AgriBot](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support)  
+[![AgroBot](https://github-readme-stats.vercel.app/api/pin/?username=Optimized-Brain&repo=Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support&theme=tokyonight&hide_border=true)](https://github.com/Optimized-Brain/Autonomous-Agricultural-Bot-with-Real-time-Dashboard-and-AI-Support)  
 AI-powered farming bot with real-time IoT dashboard.  
 
 
