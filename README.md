@@ -25,11 +25,11 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/8) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
-2. 💪 Opened PR [#7](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/7) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
-3. 💪 Opened PR [#6](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/6) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
-4. 🎉 Merged PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
-5. 💪 Opened PR [#5](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/5) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+1. 🎉 Merged PR [#6](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/6) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+2. 🎉 Merged PR [#8](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/8) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+3. 💪 Opened PR [#8](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/8) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+4. 💪 Opened PR [#7](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/7) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
+5. 💪 Opened PR [#6](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler/pull/6) in [Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler](https://github.com/Air-Calibre/Project-OAQ-Open-Air-Quality-Sampler)
   <!--END_SECTION:activity-->
 
 </details>
